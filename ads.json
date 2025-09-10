@@ -1,16 +1,8 @@
 {
   "images": [
     {
-      "https://github.com/hegoz/Bordnama/blob/main/i7tx.png",
+      "url": "https://raw.githubusercontent.com/hegoz/Bordnama/main/1.jpg?raw=true",
       "title": "تبلیغ اول: یک پیشنهاد ویژه"
-    },
-    {
-      "url": "https://.../ad2.png",
-      "title": "تبلیغ دوم: معرفی محصول جدید"
-    },
-    {
-      "url": "https://.../ad3.gif",
-      "title": "ما را دنبال کنید"
     }
   ]
 }
